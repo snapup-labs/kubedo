@@ -1,0 +1,41 @@
+{
+  "name": "kubedo",
+  "version": "0.0.1",
+  "description": "Automated deployments of production ready k8s clusters on Digital Ocean",
+  "main": "kubedo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapup-labs/kubedo.git"
+  },
+  "keywords": [
+    "kubedo",
+    "digital",
+    "ocean",
+    "do",
+    "kubernetes",
+    "on",
+    "digital",
+    "ocean",
+    "deploy",
+    "kubernetes",
+    "on",
+    "digital",
+    "ocean",
+    "automated",
+    "deployments",
+    "kubernetes",
+    "provisioning",
+    "k8s",
+    "do",
+    "snapup-labs"
+  ],
+  "author": "xechelonx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapup-labs/kubedo/issues"
+  },
+  "homepage": "https://github.com/snapup-labs/kubedo#readme"
+}
